@@ -2,7 +2,7 @@
 
 Machine learning engineer and NLP researcher with a focus on equity-aware AI systems. Recent graduate of the University of Maryland, College Park (Information Science, B.S. | Data Science & Philosophy minors).
 
-I build tools that extract meaning from complex data — from satellite and atmospheric datasets to student course evaluations — and I care about who the analysis serves and who it leaves out.
+I build tools that extract meaning from complex data. I care about who the analysis serves and who it leaves out.
 
 ## What I Work On
 
